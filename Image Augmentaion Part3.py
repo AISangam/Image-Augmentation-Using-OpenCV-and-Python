@@ -1,10 +1,9 @@
 #Name: Aisangam
 #Url: http://www.aisangam.com/
-#Blog:http://www.aisangam.com/blog/
+#Blog: http://www.aisangam.com/blog/
 #Company: Aisangam
-#Location: India
 #YouTube Link: https://www.youtube.com/channel/UC9x_PL-LPk3Wp5V85F4GLHQ
-#Discription: https://youtu.be/PePk_YkMQn0
+#Discription: https://youtu.be/NQUsbkZsCjc
 
 import cv2
 from skimage.exposure import rescale_intensity
