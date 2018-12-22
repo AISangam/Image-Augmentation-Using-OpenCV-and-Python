@@ -14,7 +14,7 @@ Image Augmentation technique using OpenCV and Python
   9. Saturation Image: saturation_image
   10. Hue Image: hue_image
   
-  ##### Implementation: [YouTube](https://youtu.be/AVr_DjnAlNw?list=PLCK5Mm9zwPkFt1iX30kD5eJ9hy-EeijQn)
+  ##### Implementation: [YouTube](https://youtu.be/PePk_YkMQn0?list=PLCK5Mm9zwPkFt1iX30kD5eJ9hy-EeijQn)
   
   
 ### Part2 (Image Augmentaion Part2.py) containe fuctions for these points:
