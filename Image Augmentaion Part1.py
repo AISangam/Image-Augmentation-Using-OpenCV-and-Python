@@ -3,7 +3,7 @@
 #Blog:http://www.aisangam.com/blog/
 #Company: Aisangam
 #YouTube Channel Link: https://www.youtube.com/channel/UC9x_PL-LPk3Wp5V85F4GLHQ
-#Discription: https://youtu.be/PePk_YkMQn0
+#Discription: https://youtu.be/PePk_YkMQn0?list=PLCK5Mm9zwPkFt1iX30kD5eJ9hy-EeijQn
 
 import cv2
 from skimage.exposure import rescale_intensity
