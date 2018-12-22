@@ -2,7 +2,6 @@
 #Url: http://www.aisangam.com/
 #Blog:http://www.aisangam.com/blog/
 #Company: Aisangam
-#Location: India
 #YouTube Link: https://www.youtube.com/channel/UC9x_PL-LPk3Wp5V85F4GLHQ
 #Discription: https://youtu.be/AVr_DjnAlNw
 
