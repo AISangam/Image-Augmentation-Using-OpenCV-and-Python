@@ -2,8 +2,7 @@
 #Url: http://www.aisangam.com/
 #Blog:http://www.aisangam.com/blog/
 #Company: Aisangam
-#Location: India
-#YouTube Link: https://www.youtube.com/channel/UC9x_PL-LPk3Wp5V85F4GLHQ
+#YouTube Channel Link: https://www.youtube.com/channel/UC9x_PL-LPk3Wp5V85F4GLHQ
 #Discription: https://youtu.be/PePk_YkMQn0
 
 import cv2
