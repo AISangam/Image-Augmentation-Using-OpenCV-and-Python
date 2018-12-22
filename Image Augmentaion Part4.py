@@ -4,7 +4,7 @@
 #Company: Aisangam
 #Location: India
 #YouTube Link: https://www.youtube.com/channel/UC9x_PL-LPk3Wp5V85F4GLHQ
-#Discription: https://youtu.be/PePk_YkMQn0
+#Discription: https://youtu.be/AVr_DjnAlNw
 
 import cv2
 import numpy as np
