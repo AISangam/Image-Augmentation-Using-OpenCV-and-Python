@@ -1,7 +1,7 @@
 # Image-Augmentation-Using-OpenCV-and-Python
 Image Augmentation technique using OpenCV and Python
 
-##Part1 (Image Augmentaion Part1.py) containe fuctions for these points:
+## Part1 (Image Augmentaion Part1.py) containe fuctions for these points:
 
   -Resize Image: resize_image
   -Crop Image: crop_image
@@ -14,10 +14,10 @@ Image Augmentation technique using OpenCV and Python
   -Saturation Image: saturation_image
   -Hue Image: hue_image
   
-  ###Implementation: https://youtu.be/AVr_DjnAlNw?list=PLCK5Mm9zwPkFt1iX30kD5eJ9hy-EeijQn
+  ### Implementation: https://youtu.be/AVr_DjnAlNw?list=PLCK5Mm9zwPkFt1iX30kD5eJ9hy-EeijQn
   
   
-##Part2 (Image Augmentaion Part2.py) containe fuctions for these points:
+## Part2 (Image Augmentaion Part2.py) containe fuctions for these points:
 
   Multiply Image: multiply_image
   Gausian Blur: gausian_blur
@@ -32,10 +32,10 @@ Image Augmentation technique using OpenCV and Python
   Top Hat Image: top_hat_image
   Black Hat Image: black_hat_image
   
-  ###Implementation: https://youtu.be/TuTg1nTsibo?list=PLCK5Mm9zwPkFt1iX30kD5eJ9hy-EeijQn
+  ### Implementation: https://youtu.be/TuTg1nTsibo?list=PLCK5Mm9zwPkFt1iX30kD5eJ9hy-EeijQn
   
 
-##Part3 (Image Augmentaion Part3.py) containe fuctions for these points:
+## Part3 (Image Augmentaion Part3.py) containe fuctions for these points:
   
   Sharpen Image: sharpen_image
   Emboss Image: emboss_image
@@ -48,21 +48,21 @@ Image Augmentation technique using OpenCV and Python
   Edge Detect Canny Image: edge_detect_canny_image
   Grayscale Image: grayscale_image
   
-  ###Implementation: https://youtu.be/NQUsbkZsCjc?list=PLCK5Mm9zwPkFt1iX30kD5eJ9hy-EeijQn
+  ### Implementation: https://youtu.be/NQUsbkZsCjc?list=PLCK5Mm9zwPkFt1iX30kD5eJ9hy-EeijQn
   
   
-##Part4 (Image Augmentaion Part4.py) containe fuctions for these points:
+## Part4 (Image Augmentaion Part4.py) containe fuctions for these points:
 
   Scale Image: scale_image
   Translation Image: translation_image
   Rotate Image: rotate_image
   Transformation Image: transformation_image
   
-  ###Implementation: https://youtu.be/AVr_DjnAlNw?list=PLCK5Mm9zwPkFt1iX30kD5eJ9hy-EeijQn
+  ### Implementation: https://youtu.be/AVr_DjnAlNw?list=PLCK5Mm9zwPkFt1iX30kD5eJ9hy-EeijQn
   
-Instant help:
+# Instant help:
 http://www.aisangam.com/
 
-More Code and info:
+# More Code and info:
 http://www.aisangam.com/blog/
   
