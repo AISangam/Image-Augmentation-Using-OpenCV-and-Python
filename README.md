@@ -3,16 +3,16 @@ Image Augmentation technique using OpenCV and Python
 
 ##Part1 (Image Augmentaion Part1.py) containe fuctions for these points:
 
-  Resize Image: resize_image
-  Crop Image: crop_image
-  Padding Image: padding_image
-  Flip Image: flip_image
-  Superpixel Image: superpixel_image
-  Invert Image: invert_image
-  Add Light: add_light
-  Add Light Color: add_light_color
-  Saturation Image: saturation_image
-  Hue Image: hue_image
+  -Resize Image: resize_image
+  -Crop Image: crop_image
+  -Padding Image: padding_image
+  -Flip Image: flip_image
+  -Superpixel Image: superpixel_image
+  -Invert Image: invert_image
+  -Add Light: add_light
+  -Add Light Color: add_light_color
+  -Saturation Image: saturation_image
+  -Hue Image: hue_image
   
   ###Implementation: https://youtu.be/AVr_DjnAlNw?list=PLCK5Mm9zwPkFt1iX30kD5eJ9hy-EeijQn
   
